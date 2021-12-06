@@ -4,7 +4,7 @@
 <!--구분-->
 Description
 ---
-
+Used UICollectionView & Snapkit
 <!--구분-->
 Screenshot 
 ---
