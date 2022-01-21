@@ -4,6 +4,7 @@
 Description
 ---
 >*Used UICollectionView & Snapkit*
+>*Can browse movies and see detail information*
 <!--구분-->
 Screenshot 
 ---
